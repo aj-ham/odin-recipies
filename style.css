@@ -1,0 +1,38 @@
+.odin{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
+.headings{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+#cookies{
+    text-shadow: 2px 2px goldenrod;
+}
+.topMain{
+    border:2px solid rgb(223, 226, 231);
+    border-radius: 20px;
+    display:grid;
+    grid-template-columns:33% 67%;
+    background-color: rgb(223, 226, 231);
+    text-align: center;
+  
+}
+img{
+    display: block;
+   
+}
+
+.sideImg {
+    display:grid;
+    place-items: center;
+    
+}
+   
+
+#frntPic{
+    margin:8px;
+    border:2px solid tan;
+    border-radius: 20px;
+}
