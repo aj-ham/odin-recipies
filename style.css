@@ -17,6 +17,7 @@
     grid-template-columns:33% 67%;
     background-color: rgb(223, 226, 231);
     text-align: center;
+    margin-bottom: 20px;
   
 }
 img{
@@ -36,3 +37,43 @@ img{
     border:2px solid tan;
     border-radius: 20px;
 }
+
+.topHeader{
+    text-align: center;
+    text-shadow: 2px 2px goldenrod;
+}
+
+.cookieImg{
+    height:300px;
+    margin:6px;
+    border:2px solid tan;
+    border-radius: 20px; 
+}
+
+.recipie{
+    border:2px solid rgb(223, 226, 231); 
+    border-radius: 20px; 
+    background-color: rgb(223, 226, 231);   
+    margin-bottom: 20px;
+    }
+
+    .recipieHeader{
+        text-align: center;
+        text-shadow: 2px 2px goldenrod;
+    }
+    .innerRecipie{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .left{
+        margin-left: 60px;
+        text-align: left;
+
+    }
+    .linkList{
+        text-align: left;
+
+    }
+    .bottomMain{
+        margin-top: 40px;
+    }
